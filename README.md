@@ -10,6 +10,8 @@
 
   ## Description 
   This is an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. This application will be utilizing Moment.js for timestamps, Express.js for routing, MongoDB for database, and the Mongoose ODM.
+  
+  [Video Walkthrough](https://drive.google.com/file/d/1-UJbXGhKaUUe5-580mIHAN8OMxRirVnT/view)
 
   ## Installation
   For this application you will need to install:
